@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Embedded, Linux, RISC-V blog</title>
+    <link>https://embedded-riscv.github.io/posts/</link>
+    <description>Recent content in Posts on Embedded, Linux, RISC-V blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Aug 2024 21:07:10 +0200</lastBuildDate>
+    <atom:link href="https://embedded-riscv.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let me introduce myself</title>
+      <link>https://embedded-riscv.github.io/posts/whoami/</link>
+      <pubDate>Fri, 02 Aug 2024 21:07:10 +0200</pubDate>
+      <guid>https://embedded-riscv.github.io/posts/whoami/</guid>
+      <description>My name is Roman Storozhenko. I am a seasoned software developer who loves low-level programming such as MCU-level code, Linux, embedded, and RISC-V architecture.</description>
+    </item>
+  </channel>
+</rss>
