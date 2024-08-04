@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Embedded, Linux, RISC-V blog</title>
-    <link>https://embedded-riscv.github.io/</link>
+    <link>https://romeus.github.io/</link>
     <description>Recent content on Embedded, Linux, RISC-V blog</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 02 Aug 2024 21:07:10 +0200</lastBuildDate>
-    <atom:link href="https://embedded-riscv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Aug 2024 12:08:08 +0200</lastBuildDate>
+    <atom:link href="https://romeus.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Let me introduce myself</title>
-      <link>https://embedded-riscv.github.io/posts/whoami/</link>
-      <pubDate>Fri, 02 Aug 2024 21:07:10 +0200</pubDate>
-      <guid>https://embedded-riscv.github.io/posts/whoami/</guid>
-      <description>My name is Roman Storozhenko. I am a seasoned software developer who loves low-level programming such as MCU-level code, Linux, embedded, and RISC-V architecture.</description>
+      <title>About me</title>
+      <link>https://romeus.github.io/post/whoami/</link>
+      <pubDate>Sun, 04 Aug 2024 12:08:08 +0200</pubDate>
+      <guid>https://romeus.github.io/post/whoami/</guid>
+      <description>$ whoami Passionate Linux Kernel and userspace developer enabling cutting-edge Intel® RDT HW for the upcoming Cloud-targeted Intel® Xeon® CPUs, for the wide range of capabilities from traditional CMT, CAT and MBA to the newest I/O RDT, SNC, CBA, etc.. and having a good knowledge of resctrl and the resctrl2 filesystems internals.&#xA;Embedded and firmware developer having experience with Yocto, Buildroot, U-Boot, etc.., running this stack both in virtualized environments like QEMU/KVM, and in custom ARM and RISC-V based hardware boards.</description>
     </item>
   </channel>
 </rss>
