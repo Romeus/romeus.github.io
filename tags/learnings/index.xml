@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Embedded, Linux, RISC-V blog</title>
-    <link>https://romeus.github.io/</link>
-    <description>Recent content on Embedded, Linux, RISC-V blog</description>
+    <title>Learnings on Embedded, Linux, RISC-V blog</title>
+    <link>https://romeus.github.io/tags/learnings/</link>
+    <description>Recent content in Learnings on Embedded, Linux, RISC-V blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 07 Aug 2024 19:36:48 +0200</lastBuildDate>
-    <atom:link href="https://romeus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://romeus.github.io/tags/learnings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux Kernel Mentorship program graduation</title>
       <link>https://romeus.github.io/post/lkmp_graduation/</link>
       <pubDate>Wed, 07 Aug 2024 19:36:48 +0200</pubDate>
       <guid>https://romeus.github.io/post/lkmp_graduation/</guid>
       <description>It was a long journey. I heard about Linux Kernel Mentorship Program in the mid of the January, went through the application process and was selected as a mentee. Despite I wasn&amp;rsquo;t a newbie kernel developer, I learnt a lot during my mentorship period. And now, this journey is over and I am graduated.&#xA;I want to thank my wonderful and patient Linux Foundation mentors and experienced kernel developers and maintainers - Shuah Khan, Javier Carrasco Cruz and Julia Lawall from the bottom of my heart for their support, wise and passion.</description>
-    </item>
-    <item>
-      <title>About me</title>
-      <link>https://romeus.github.io/post/whoami/</link>
-      <pubDate>Sun, 04 Aug 2024 12:08:08 +0200</pubDate>
-      <guid>https://romeus.github.io/post/whoami/</guid>
-      <description>$ whoami Passionate Linux Kernel and userspace developer enabling cutting-edge Intel® RDT HW for the upcoming Cloud-targeted Intel® Xeon® CPUs, for the wide range of capabilities from traditional CMT, CAT and MBA to the newest I/O RDT, SNC, CBA, etc.. and having a good knowledge of resctrl and the resctrl2 filesystems internals.&#xA;Embedded and firmware developer having experience with Yocto, Buildroot, U-Boot, etc.., running this stack both in virtualized environments like QEMU/KVM, and in custom ARM and RISC-V based hardware boards.</description>
     </item>
   </channel>
 </rss>
