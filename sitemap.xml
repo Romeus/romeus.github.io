@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://romeus.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-07T19:36:48+02:00</lastmod>
   </url><url>
-    <loc>https://romeus.github.io/tags/certifications/</loc>
+    <loc>http://localhost:1313/tags/certifications/</loc>
     <lastmod>2024-08-07T19:36:48+02:00</lastmod>
   </url><url>
-    <loc>https://romeus.github.io/tags/learnings/</loc>
+    <loc>http://localhost:1313/tags/learnings/</loc>
     <lastmod>2024-08-07T19:36:48+02:00</lastmod>
   </url><url>
-    <loc>https://romeus.github.io/post/lkmp_graduation/</loc>
+    <loc>http://localhost:1313/post/lkmp_graduation/</loc>
     <lastmod>2024-08-07T19:36:48+02:00</lastmod>
   </url><url>
-    <loc>https://romeus.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-08-07T19:36:48+02:00</lastmod>
   </url><url>
-    <loc>https://romeus.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-07T19:36:48+02:00</lastmod>
   </url><url>
-    <loc>https://romeus.github.io/post/whoami/</loc>
+    <loc>http://localhost:1313/post/whoami/</loc>
     <lastmod>2024-08-04T12:08:08+02:00</lastmod>
   </url><url>
-    <loc>https://romeus.github.io/tags/personal/</loc>
+    <loc>http://localhost:1313/tags/personal/</loc>
     <lastmod>2024-08-04T12:08:08+02:00</lastmod>
   </url><url>
-    <loc>https://romeus.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
