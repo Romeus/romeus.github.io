@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux Kernel on Embedded, Linux, RISC-V blog</title>
+    <link>https://romeus.github.io/tags/linux-kernel/</link>
+    <description>Recent content in Linux Kernel on Embedded, Linux, RISC-V blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://romeus.github.io/tags/linux-kernel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflections on My FOSDEM 2026 Presentation</title>
+      <link>https://romeus.github.io/post/fosdem_reflection/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://romeus.github.io/post/fosdem_reflection/</guid>
+      <description>Hi everybody,&#xA;The video of my presentation is now available on its permanent page:&#xA;Reproducing Linux Kernel Bugs in 5 Minutes with virtme-ng&#xA;https://fosdem.org/2026/schedule/event/99ULYW-repro-linux-kernel-bug-5-min-virtme-ng/ I would like to share a more detailed reflection on the presentation itself. I believe we should be our own toughest critics, and I hope the lessons I learned will be useful both for me and for others preparing for future conferences.&#xA;There is a saying:</description>
+    </item>
+  </channel>
+</rss>
